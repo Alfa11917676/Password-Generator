@@ -1,5 +1,4 @@
-# Its a password generator with the capability of generating password of length 50 characters. The charaters include uppercase, lowercase, numbers & symbols.\
-
+# Its a password generator with the capability of generating password of length 50 characters. The charaters include uppercase, lowercase, numbers & symbols.
 # Home Page
 ![image](https://user-images.githubusercontent.com/62868878/108159921-09090900-710e-11eb-99e5-f24f6a533189.png)
 
